@@ -22,6 +22,6 @@ Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA 
 
 Debería haber recibido una copia de la Licencia pública general de GNU junto con este programa. Si no, consulte http://www.gnu.org/licenses/.
 
-crosshairbykabe - Añade un punto de mira al apuntar con el botón derecho del ratón.
+CrosshairbyKabe - Añade un punto de mira al apuntar con el botón derecho del ratón.
 
 Copyright (C) 2022 KabeGames
