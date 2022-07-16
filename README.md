@@ -3,7 +3,7 @@ GTA V - FiveM
 # CrosshairbyKabe
 Añade un punto de mira al apuntar con el botón derecho del ratón.
 
-# Instalacion
+# Instalación
 Descarga el archivo desde: https://github.com/KabeCode/CrosshairbyKabe/releases/
 
 Arrastrar y soltar en la carpeta de resources.
